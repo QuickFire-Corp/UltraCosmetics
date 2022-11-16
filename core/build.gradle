@@ -29,7 +29,7 @@ dependencies {
     compileOnly "me.lokka30:treasury-api:1.2.1-SNAPSHOT"
     implementation 'com.zaxxer:HikariCP:4.0.3'
     implementation 'net.wesjd:anvilgui:1.5.3-SNAPSHOT'
-    implementation 'me.gamercoder215:mobchip-bukkit:1.6.1-SNAPSHOT'
+    implementation 'me.gamercoder215:mobchip-bukkit:1.7.0-SNAPSHOT'
 }
 shadowJar {
     // removes unused classes in 'implementation' path dependencies
